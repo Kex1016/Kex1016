@@ -18,5 +18,3 @@ jobs:
         with:
           feed_list: "https://haiiro.moe/index.xml"
           filter_dates: "currentYear"
-          title_max_length: "50"
-          template: "<li>$counter <a href="$url">$title</a></li>"

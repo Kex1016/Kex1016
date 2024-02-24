@@ -92,14 +92,7 @@
   </div>
 </div>
 
-<div id="blog" align="left">
-  <div>
-    <h2>Blog posts from this year</h2>
-  </div>
-  <div id="posts">
-    <ul>
+## Blog posts from [haiiro.moe](https://haiiro.moe)
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-    </ul>
-  </div>
-</div>
