@@ -95,6 +95,5 @@
 ## This year's blog posts from [haiiro.moe](https://haiiro.moe)
 
 <!-- BLOG-POST-LIST:START -->
-
 - [I made a virtual machine for VR games.](https://haiiro.moe/p/kvm-passthrough-vr/)
 <!-- BLOG-POST-LIST:END -->
