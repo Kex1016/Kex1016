@@ -92,7 +92,7 @@
   </div>
 </div>
 
-## Blog posts from [haiiro.moe](https://haiiro.moe)
+## This year's blog posts from [haiiro.moe](https://haiiro.moe)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
