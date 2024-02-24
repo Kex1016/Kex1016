@@ -29,7 +29,7 @@
   <div>
     <h2>My stats</h2>
   </div>
-  <div>
+  <div align="center">
     <picture>
       <source
         srcset="https://streak-stats.demolab.com?user=Kex1016&theme=dark&background=000000"
@@ -43,7 +43,7 @@
   </picture>
   </div>
 
-  <div>
+  <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kex1016&layout=compact&theme=vision-friendly-dark" alt="Top languages">
   </div>
 </div>
@@ -95,5 +95,6 @@
 ## This year's blog posts from [haiiro.moe](https://haiiro.moe)
 
 <!-- BLOG-POST-LIST:START -->
+
 - [I made a virtual machine for VR games.](https://haiiro.moe/p/kvm-passthrough-vr/)
 <!-- BLOG-POST-LIST:END -->
