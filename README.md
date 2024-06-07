@@ -100,4 +100,4 @@
 <!-- BLOG-POST-LIST:END -->
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 64px; width: 130vw; opacity: 0.5; background-image: url('https://safe.haiiro.moe/pEBSH3rRcuDa.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: 64px; width: 130vw; opacity: 0.5; background-image: url('https://raw.githubusercontent.com/Kex1016/Kex1016/main/haiiro-pattern.png');]{x0000}$}
