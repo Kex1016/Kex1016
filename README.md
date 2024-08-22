@@ -95,6 +95,7 @@
 ## This year's blog posts from [haiiro.moe](https://haiiro.moe)
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a tool to rescore your AL library!](https://haiiro.moe/p/al-rescorer/)
-- [I made a virtual machine for VR games.](https://haiiro.moe/p/kvm-passthrough-vr/)
+- [New design!](https://haiiro.moe/posts/redesign/)
+- [I made a tool to rescore your AL library!](https://haiiro.moe/posts/al-rescorer/)
+- [I made a virtual machine for VR games.](https://haiiro.moe/posts/kvm-passthrough-vr/)
 <!-- BLOG-POST-LIST:END -->
