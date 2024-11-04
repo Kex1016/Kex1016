@@ -25,29 +25,6 @@
   </p>
 </div>
 
-<div id="stats" align="left">
-  <div>
-    <h2>My stats</h2>
-  </div>
-  <div align="center">
-    <picture>
-      <source
-        srcset="https://streak-stats.demolab.com?user=Kex1016&theme=dark&background=000000"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://streak-stats.demolab.com?user=Kex1016&background=ffffff"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img src="https://streak-stats.demolab.com?user=Kex1016" alt="GitHub Streak" />
-  </picture>
-  </div>
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kex1016&layout=compact&theme=vision-friendly-dark" alt="Top languages">
-  </div>
-</div>
-
 <div id="languages" align="left">
   <div>
     <h2>Languages and tools</h2>
