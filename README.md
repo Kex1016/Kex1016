@@ -72,9 +72,9 @@
 ## This year's blog posts from [haiiro.moe](https://haiiro.moe)
 
 <!-- BLOG-POST-LIST:START -->
-- [Haiiro version... three?](https://haiiro.moe/~cakes//posts/the-new-new-haiiro/)
-- [About Rust](https://haiiro.moe/~cakes//posts/rust-might-be-cool/)
-- [OpenWRT is kind of cool!](https://haiiro.moe/~cakes//posts/openwrt-rules/)
-- [New design!](https://haiiro.moe/~cakes//posts/redesign/)
-- [I made a tool to rescore your AL library!](https://haiiro.moe/~cakes//posts/al-rescorer/)
+- [Haiiro version... three?](https://haiiro.moe/~cakes/posts/the-new-new-haiiro/)
+- [About Rust](https://haiiro.moe/~cakes/posts/rust-might-be-cool/)
+- [OpenWRT is kind of cool!](https://haiiro.moe/~cakes/posts/openwrt-rules/)
+- [New design!](https://haiiro.moe/~cakes/posts/redesign/)
+- [I made a tool to rescore your AL library!](https://haiiro.moe/~cakes/posts/al-rescorer/)
 <!-- BLOG-POST-LIST:END -->
