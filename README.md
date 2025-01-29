@@ -21,7 +21,7 @@
 <div id="content" align="left">
   <h2>About me</h2>
   <p>
-    <b><em>Hi! I'm cakes, Kex or David.</em></b> I'm a 21 year old university student who's very interested in IT and coding. Since JS/TS are my go-to languages, the majority of my projects are written in that, however I am definitely planning on making some projects in many more languages. Eventually I will also contribute to other projects. Eventually.
+    <b><em>Hi! I'm cakes, Kex or David.</em></b> I'm a 22 year old university student who's very interested in IT and coding. Since JS/TS are my go-to languages, the majority of my projects are written in that, however I am definitely planning on making some projects in many more languages. Eventually I will also contribute to other projects. Eventually.
   </p>
 </div>
 
