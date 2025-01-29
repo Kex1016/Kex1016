@@ -69,7 +69,7 @@
   </div>
 </div>
 
-## This year's blog posts from [haiiro.moe](https://haiiro.moe)
+## Recent blog posts from [haiiro.moe](https://haiiro.moe)
 
 <!-- BLOG-POST-LIST:START -->
 - [Haiiro version... three?](https://haiiro.moe/~cakes/posts/the-new-new-haiiro/)
